@@ -1,16 +1,15 @@
-# 🎓 Bachelor in Computer Science — Year [number]
-> THIS IS A PUBLIC TEMPLATE TO USE FOR EACH YEAR
+# 🎓 Bachelor in Computer Science — Year 01
 
-📅 **MM YYYY → MM YYYY**
+📅 **2025 08 → 04 2026**
 
-This repository summarizes all coursework completed during my **[first academic year]** of my Bachelor’s degree in Computer Science.
+This repository summarizes all coursework completed during my **first** of my Bachelor’s degree in Computer Science.
 
 It serves as a **central index** linking all labs, assignments, projects, and exercises completed during this academic period.
 
 
 # 🏫 University
 
-🎓 **[university name here]**
+🎓 **UQAR**
 
 
 # 📚 Academic Structure
@@ -24,43 +23,54 @@ This year contains two semesters:
 
 # 🍂 Fall 2025
 
-## 👨‍💻 IFT1004 — Introduction to Programming
+## 👨‍💻 INF11107 — Programmation orientée objet I
 
 | Type | Title | Repo |
 |-----|------|------|
-| Lab | Lab 1 | [ift1004-lab1](https://github.com/<org>/ift1004-lab1) |
-| Lab | Lab 2 | [ift1004-lab2](https://github.com/<org>/ift1004-lab2) |
-| Lab | Lab 3 | [ift1004-lab3](https://github.com/<org>/ift1004-lab3) |
-| TP | TP 1 | [ift1004-tp1](https://github.com/<org>/ift1004-tp1) |
-| TP | TP 2 | [ift1004-tp2](https://github.com/<org>/ift1004-tp2) |
-| Assignment | Assignment 1 | [ift1004-assignment1](https://github.com/<org>/ift1004-assignment1) |
-| Assignment | Assignment 2 | [ift1004-assignment2](https://github.com/<org>/ift1004-assignment2) |
-| Exercises | Exercises | [ift1004-exercises](https://github.com/<org>/ift1004-exercises) |
-| Project | Final Project | [ift1004-final-project](https://github.com/<org>/ift1004-final-project) |
+| Lab | Lab 01 | [inf11107-labo-01-oop](https://github.com/cs-bachelor-journey/inf11107-labo-01-oop) |
+| Lab | Lab 00 | [inf11107-and-inf1126207-labo-learn-c_sharp](https://github.com/cs-bachelor-journey/inf11107-and-inf1126207-labo-learn-c_sharp) |
+| TP | TP 01 | [inf11107-tp-01-procedural-prog-in-csharp](https://github.com/cs-bachelor-journey/inf11107-tp-01-procedural-prog-in-csharp) |
+| TP | TP 02 | [inf11107-tp-02-oop-in-csharp](https://github.com/cs-bachelor-journey/inf11107-tp-02-oop-in-csharp) |
+| Project | Final Project | [inf11107-project-01-uno-game](https://github.com/cs-bachelor-journey/inf11107-project-01-uno-game) |
 
 ---
-
-## 🔢 MAT10209 — Linear Algebra
+## 👨‍💻 INF16107 — Introduction a l'Internet
 
 | Type | Title | Repo |
 |-----|------|------|
-| Lab | Lab 1 | [mat10209-lab1](https://github.com/<org>/mat10209-lab1) |
-| Lab | Lab 2 | [mat10209-lab2](https://github.com/<org>/mat10209-lab2) |
-| TP | TP 1 | [mat10209-tp1](https://github.com/<org>/mat10209-tp1) |
-| Exercises | Exercises | [mat10209-exercises](https://github.com/<org>/mat10209-exercises) |
+| Exercises | Exercises 01 | [inf16107-exercise-01-back-to-js](https://github.com/cs-bachelor-journey/inf16107-exercise-01-back-to-js) |
+| Exercises | Exercises 02 | [inf16107-exercise-02-introduction-to-node.js](https://github.com/cs-bachelor-journey/inf16107-exercise-02-introduction-to-node.js) |
+| TP | TP 01 | [inf16107-tp-01-porfolio-personnel](https://github.com/cs-bachelor-journey/inf16107-tp-01-porfolio-personnel) |
+| TP | TP 02 | [inf16107-tp-02-cake-craft](https://github.com/cs-bachelor-journey/inf16107-tp-02-cake-craft) |
 
 ---
 
 # ❄️ Winter 2026
 
-## 📈 MAT10309 — Differential Calculus
+## 👨‍💻 INF26207 — Téléinformatique 
 
 | Type | Title | Repo |
 |-----|------|------|
-| Lab | Lab 1 | [mat10309-lab1](https://github.com/<org>/mat10309-lab1) |
-| Lab | Lab 2 | [mat10309-lab2](https://github.com/<org>/mat10309-lab2) |
-| Assignment | Assignment 1 | [mat10309-assignment1](https://github.com/<org>/mat10309-assignment1) |
-| Exercises | Exercises | [mat10309-exercises](https://github.com/<org>/mat10309-exercises) |
+| Exercises | Exercises 01 | [inf16107-exercise-02-introduction-to-node.js](https://github.com/cs-bachelor-journey/inf26207-exercise-01-tcp-chat) |
+| Lab | Lab 01 | [inf26207-labo-01-introduction-aux-socketsl](https://github.com/cs-bachelor-journey/inf26207-labo-01-introduction-aux-sockets) |
+| Lab | Lab 03 | [inf26207-labo-03-python-WebRTC](https://github.com/cs-bachelor-journey/inf26207-labo-03-python-WebRTC) |
 
 ---
+## 👨‍💻 INF15122 — Bases de données I
 
+| Type | Title | Repo |
+|-----|------|------|
+| Assignment | Assignment 01 | [inf15122-assignment-01-hackerank-sql-solutions](https://github.com/cs-bachelor-journey/inf15122-assignment-01-hackerank-sql-solutions) |
+| Exercises | Exercises 01 | [inf15122-exercise-01-restaurant-management-system_dbl](https://github.com/cs-bachelor-journey/inf15122-exercise-01-restaurant-management-system_db) |
+| Lab | Lab 00 | [inf15122-labo-00-daily-sql-practise](https://github.com/cs-bachelor-journey/inf15122-labo-00-daily-sql-practise) |
+
+---
+## 👨‍💻 INF11207 — Programmation orientée objet II
+
+| Type | Title | Repo |
+|-----|------|------|
+| Lab | Lab 00 | [inf11107-and-inf1126207-labo-learn-c_sharp](https://github.com/cs-bachelor-journey/inf11107-and-inf1126207-labo-learn-c_sharp/tree/main/LABO) |
+| TP | TP 01 | [inf1126207-tp-01-wheat-grain-classifier](https://github.com/cs-bachelor-journey/inf1126207-tp-01-wheat-grain-classifier) |
+| Assignment | Assignment 01 | [inf1126207-assignment-01-csharp-sorting-algorithms](https://github.com/cs-bachelor-journey/inf1126207-assignment-01-csharp-sorting-algorithms) |
+
+---

@@ -34,6 +34,13 @@ This year contains two semesters:
 | Project | Final Project | [inf11107-project-01-uno-game](https://github.com/cs-bachelor-journey/inf11107-project-01-uno-game) |
 
 ---
+## 👨‍💻 INF14107 — Architecture des Systèmes Informatiques
+
+| Type | Title | Repo |
+|-----|------|------|
+| TP | TP 02 | [inf14107-tp-02-intelligent-file-organization](https://github.com/cs-bachelor-journey/inf14107-tp-02-intelligent-file-organization) |
+
+---
 ## 👨‍💻 INF16107 — Introduction a l'Internet
 
 | Type | Title | Repo |

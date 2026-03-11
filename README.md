@@ -62,7 +62,7 @@ This year contains two semesters:
 
 | Type      | Title        | Repo                                                                                                                           |
 | --------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| Exercises | Exercises 01 | [inf16107-exercise-02-introduction-to-node.js](https://github.com/cs-bachelor-journey/inf26207-exercise-01-tcp-chat)           |
+| Exercises | Exercises 01 | [inf26207-exercise-01-tcp-chat](https://github.com/cs-bachelor-journey/inf26207-exercise-01-tcp-chat)           |
 | Lab       | Lab 01       | [inf26207-labo-01-introduction-aux-socketsl](https://github.com/cs-bachelor-journey/inf26207-labo-01-introduction-aux-sockets) |
 | Lab       | Lab 03       | [inf26207-labo-03-python-WebRTC](https://github.com/cs-bachelor-journey/inf26207-labo-03-python-WebRTC)                        |
 

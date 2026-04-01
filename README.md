@@ -65,6 +65,8 @@ This year contains two semesters:
 | Exercises | Exercises 01 | [inf26207-exercise-01-tcp-chat](https://github.com/cs-bachelor-journey/inf26207-exercise-01-tcp-chat)           |
 | Lab       | Lab 01       | [inf26207-labo-01-introduction-aux-socketsl](https://github.com/cs-bachelor-journey/inf26207-labo-01-introduction-aux-sockets) |
 | Lab       | Lab 03       | [inf26207-labo-03-python-WebRTC](https://github.com/cs-bachelor-journey/inf26207-labo-03-python-WebRTC)                        |
+| Lab       | Lab 05       | [inf26207-labo-05-gRPC](https://github.com/cs-bachelor-journey/inf26207-labo-05-gRPC)                        |
+| Travail de session       | Les sockets       | [INF26207_TS_H2026_Les_Sockets](https://github.com/cs-bachelor-journey/INF26207_TS_H2026_Les_Sockets)                        |
 
 ---
 
@@ -83,6 +85,8 @@ This year contains two semesters:
 | Type       | Title         | Repo                                                                                                                                            |
 | ---------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | Lab        | Lab 00        | [inf11107-and-inf1126207-labo-learn-c_sharp](https://github.com/cs-bachelor-journey/inf11107-and-inf1126207-labo-learn-c_sharp/tree/main/LABO)  |
+| Lab        | Lab 07        | [inf1126207-labo-07-bibliotheques-installateurs-fichiers-binaires](https://github.com/cs-bachelor-journey/inf1126207-labo-07-bibliotheques-installateurs-fichiers-binaires)  |
+| Lab        | Lab 08        | [inf1126207-labo-08-intro-interface-graphique](https://github.com/cs-bachelor-journey/inf1126207-labo-08-intro-interface-graphique)  |
 | TP         | TP 01         | [inf1126207-tp-01-wheat-grain-classifier](https://github.com/cs-bachelor-journey/inf1126207-tp-01-wheat-grain-classifier)                       |
 | Assignment | Assignment 01 | [inf1126207-assignment-01-csharp-sorting-algorithms](https://github.com/cs-bachelor-journey/inf1126207-assignment-01-csharp-sorting-algorithms) |
 

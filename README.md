@@ -66,6 +66,8 @@ This year contains two semesters:
 | Lab       | Lab 01       | [inf26207-labo-01-introduction-aux-socketsl](https://github.com/cs-bachelor-journey/inf26207-labo-01-introduction-aux-sockets) |
 | Lab       | Lab 03       | [inf26207-labo-03-python-WebRTC](https://github.com/cs-bachelor-journey/inf26207-labo-03-python-WebRTC)                        |
 | Lab       | Lab 05       | [inf26207-labo-05-gRPC](https://github.com/cs-bachelor-journey/inf26207-labo-05-gRPC)                        |
+| Lab       | Lab 06       | [inf26207-labo-06-packet-tracer](https://github.com/cs-bachelor-journey/inf26207-labo-06-packet-tracer)                        |
+| TP       | TP 03     | [inf26207-tp-03-virtualisation-and-linux](https://github.com/cs-bachelor-journey/inf26207-tp-03-virtualisation-and-linux)                        |
 | Travail de session       | Les sockets       | [INF26207_TS_H2026_Les_Sockets](https://github.com/cs-bachelor-journey/INF26207_TS_H2026_Les_Sockets)                        |
 
 ---

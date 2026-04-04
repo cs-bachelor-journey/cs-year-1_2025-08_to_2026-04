@@ -89,6 +89,8 @@ This year contains two semesters:
 | Lab        | Lab 00        | [inf11107-and-inf1126207-labo-learn-c_sharp](https://github.com/cs-bachelor-journey/inf11107-and-inf1126207-labo-learn-c_sharp/tree/main/LABO)  |
 | Lab        | Lab 07        | [inf1126207-labo-07-bibliotheques-installateurs-fichiers-binaires](https://github.com/cs-bachelor-journey/inf1126207-labo-07-bibliotheques-installateurs-fichiers-binaires)  |
 | Lab        | Lab 08        | [inf1126207-labo-08-intro-interface-graphique](https://github.com/cs-bachelor-journey/inf1126207-labo-08-intro-interface-graphique)  |
+| Lab        | Lab 09        | [inf1126207-labo-09-creation-interface-xaml](https://github.com/cs-bachelor-journey/inf1126207-labo-09-creation-interface-xaml)  |
+| Lab        | Lab 10        | [inf1126207-labo-10-architecture-logicielle-mvvm](https://github.com/cs-bachelor-journey/inf1126207-labo-10-architecture-logicielle-mvvm)  |
 | TP         | TP 01         | [inf1126207-tp-01-wheat-grain-classifier](https://github.com/cs-bachelor-journey/inf1126207-tp-01-wheat-grain-classifier)                       |
 | Assignment | Assignment 01 | [inf1126207-assignment-01-csharp-sorting-algorithms](https://github.com/cs-bachelor-journey/inf1126207-assignment-01-csharp-sorting-algorithms) |
 
